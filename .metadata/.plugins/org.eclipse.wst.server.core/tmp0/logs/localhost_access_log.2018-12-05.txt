@@ -1,0 +1,4 @@
+127.0.0.1 - - [05/Dec/2018:17:50:39 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [05/Dec/2018:17:50:41 +0100] "GET /FirstApp/SignupServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [05/Dec/2018:17:50:43 +0100] "GET /FirstApp/signup.jsp HTTP/1.1" 200 377
+0:0:0:0:0:0:0:1 - - [05/Dec/2018:17:54:12 +0100] "POST /FirstApp/SignupServlet HTTP/1.1" 200 -

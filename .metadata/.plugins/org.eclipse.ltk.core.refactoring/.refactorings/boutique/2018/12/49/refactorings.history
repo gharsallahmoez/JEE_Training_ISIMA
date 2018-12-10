@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;boutique&apos;&#x0D;&#x0A;- Original project: &apos;boutique&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.mysql.jdbc_5.1.5.jar&#x0D;&#x0A;     eclipselink.jar&#x0D;&#x0A;     javax.persistence.jar&#x0D;&#x0A;     jstl-1.2.jar" description="Delete elements" element1="WebContent/WEB-INF/eclipselink.jar" element2="WebContent/WEB-INF/javax.persistence.jar" element3="WebContent/WEB-INF/com.mysql.jdbc_5.1.5.jar" element4="WebContent/WEB-INF/jstl-1.2.jar" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="4" stamp="1544262712339" subPackages="false" version="1.0"/>
+</session>

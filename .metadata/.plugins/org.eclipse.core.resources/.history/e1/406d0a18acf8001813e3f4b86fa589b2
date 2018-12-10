@@ -1,0 +1,16 @@
+package repository;
+import java.sql.*;
+public class UsersManagement {
+	private Connection cnx;
+	public UsersManagement() {
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+			String url = "jdbc:mysql://localhost:3306/firstapp";
+			cnx = (Connection) DriverManager.getConnection(url,"root","12345678");
+		}
+		catch(Exception e){
+			e.getMessage();
+		}
+	}
+
+}

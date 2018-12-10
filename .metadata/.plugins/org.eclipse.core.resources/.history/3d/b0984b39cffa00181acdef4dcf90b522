@@ -1,0 +1,12 @@
+package model;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+public class Produit {
+	private int id; 
+	
+	
+
+}

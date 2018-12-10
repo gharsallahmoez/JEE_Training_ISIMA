@@ -1,0 +1,34 @@
+package repository;
+
+import java.util.List;
+
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+import model.Produit;
+
+public class BoutiqueManagement {
+	EntityManager em;
+	public BoutiqueManagement() {
+		EntityManagerFactory factory = Persistence.createEntityManagerFactory("persis");
+		em = factory.createEntityManager();
+	}
+	public List<Produit> getAllProduit(){
+		em.getTransaction().begin();
+		
+		em.getTransaction().commit();
+	}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

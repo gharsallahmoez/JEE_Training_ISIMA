@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+D:\Formation\JEE\pratique\mahdia_workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1334702080.index
+\FirstApp\src
+D:\Formation\JEE\pratique\mahdia_workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3378000709.index
+\boutique\src
+C:\Users\Moez\Desktop\dd\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1334702080.index
+\FirstApp\src
+C:\Users\Moez\Desktop\dd\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3378000709.index
+\boutique\src
+C:\Users\Moez\Desktop\dd\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\661973633.index
+\Ecommerce\src
+D:\Formation\JEE\pratique\mahdia_workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\661973633.index
+\Ecommerce\src

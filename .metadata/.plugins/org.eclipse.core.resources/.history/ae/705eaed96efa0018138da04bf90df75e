@@ -1,0 +1,12 @@
+package repository;
+
+import javax.persistence.*;
+
+public class EcommerceManagement {
+	EntityManager em; 
+	public EcommerceManagement() {
+		EntityManagerFactory factory = Persistence.createEntityManagerFactory("persis");
+		em=factory.createEntityManager();
+	}
+
+}

@@ -1,0 +1,11 @@
+package repository;
+
+import javax.persistence.EntityManager;
+
+public class usersmanagement {
+EntityManager em ;
+public usersmanagement() {
+	EntityManagerFactory factory = Persistence.createEntityManagerFactory("persis");
+	em=factory.createEntityManager();
+}
+}

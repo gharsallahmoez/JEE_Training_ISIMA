@@ -1,0 +1,18 @@
+package model;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+public class Produit {
+	@Id
+	private int id; 
+	private String description;
+	private int quantite;
+	private float prix ;
+	
+	
+	
+
+}
